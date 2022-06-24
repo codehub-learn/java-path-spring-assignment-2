@@ -1,3 +1,3 @@
 ## Code.Learn - PMM Public Media Markt, Introduction to Spring & Spring Boot
 
-This project hosts all source code exhibited during sessions.
+This project hosts all source code related to the assignment along with the proposed architectural approach.
