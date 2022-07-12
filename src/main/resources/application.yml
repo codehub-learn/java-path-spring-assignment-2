@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SmdbApplication
+  main:
+    web-application-type: none
